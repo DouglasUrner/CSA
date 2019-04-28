@@ -9,3 +9,7 @@
     - Inline comments, they are clues to where you can break the code into methods - use the comment to help you name the method.
   - Duplication to combine.
   - Abstractions to create.
+
+### Resources:
+
+* [Martin Fowler, *Refactoring: Improving the Design of Existing Code*](#)
